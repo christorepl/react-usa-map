@@ -160,7 +160,7 @@
     width: 959,
     height: 593,
     defaultFill: "#D3D3D3",
-    title: "Blank US states map",
+    title: "Washington, DC",
     customize: {}
   };
 
